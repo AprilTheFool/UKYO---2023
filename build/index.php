@@ -48,6 +48,8 @@ class Post
     }
 }
 
+// hello git :)
+
 $vscode = "./assets/ico/vscode.webp";
 $photoshop = "./assets/ico/photoshop.webp";
 $inkscape = "./assets/ico/inkscape.webp";
